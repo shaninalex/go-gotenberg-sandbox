@@ -4,13 +4,13 @@
 			"path": "create-action"
 		},
 		{
-			"path": "url-generator"
-		},
-		{
 			"path": "staticfiles"
 		},
 		{
 			"path": "datasource"
+		},
+		{
+			"path": "page-generator"
 		}
 	]
 }

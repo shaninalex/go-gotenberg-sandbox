@@ -53,35 +53,35 @@ func handleRequest(c *gin.Context, filename string) {
 }
 
 func balancesheet(c *gin.Context) {
-	handleRequest(c, "./source/a_balancesheet.json")
+	handleRequest(c, "/source/a_balancesheet.json")
 }
 func cashflow(c *gin.Context) {
-	handleRequest(c, "./source/a_cashflow.json")
+	handleRequest(c, "/source/a_cashflow.json")
 }
 func company_overview(c *gin.Context) {
-	handleRequest(c, "./source/a_company_overview.json")
+	handleRequest(c, "/source/a_company_overview.json")
 }
 func earnings_calendar(c *gin.Context) {
-	handleRequest(c, "./source/a_earnings_calendar.json")
+	handleRequest(c, "/source/a_earnings_calendar.json")
 }
 func summary(c *gin.Context) {
-	handleRequest(c, "./source/g_summary.json")
+	handleRequest(c, "/source/g_summary.json")
 }
 func congresstrading(c *gin.Context) {
-	handleRequest(c, "./source/q_congresstrading.json")
+	handleRequest(c, "/source/q_congresstrading.json")
 }
 func housetrading(c *gin.Context) {
-	handleRequest(c, "./source/q_housetrading.json")
+	handleRequest(c, "/source/q_housetrading.json")
 }
 func offexchange(c *gin.Context) {
-	handleRequest(c, "./source/q_offexchange.json")
+	handleRequest(c, "/source/q_offexchange.json")
 }
 func senatetrading(c *gin.Context) {
-	handleRequest(c, "./source/q_senatetrading.json")
+	handleRequest(c, "/source/q_senatetrading.json")
 }
 func twitter(c *gin.Context) {
-	handleRequest(c, "./source/q_twitter.json")
+	handleRequest(c, "/source/q_twitter.json")
 }
 func wallstreetbets(c *gin.Context) {
-	handleRequest(c, "./source/q_wallstreetbets.json")
+	handleRequest(c, "/source/q_wallstreetbets.json")
 }
