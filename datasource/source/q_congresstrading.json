@@ -1,0 +1,5055 @@
+{
+    "data": [
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2023-03-13",
+            "Representative": " John Curtis",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-02-23"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2023-03-07",
+            "Representative": " Scott Mr Franklin",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-02-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2023-02-24",
+            "Representative": " Daniel Goldman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-01-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2023-02-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2023-02-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-01-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2023-02-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-01-13"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2023-02-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2023-01-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-08",
+            "Representative": " Robert J. Wittman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-11-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-11-10"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-11-10",
+            "Representative": " Earl Blumenauer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-10-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-11-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-10-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-01",
+            "Representative": " Daniel Crenshaw",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-10-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-11-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-10-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-11-10",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-10-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-09-06",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-09-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-09-06",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-09-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-09-23",
+            "Representative": " Robert B. Aderholt",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-08-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-09-16",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-08-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-09-14",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-08-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-08-10",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-07-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-08-10",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-07-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-08-10",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-07-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-08-29",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-07-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-08-10",
+            "Representative": " Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-07-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-07-22",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-06-14"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-06-16",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-05-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-06-16",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-05-13"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-05-16",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-05-11"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-05-16",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-04-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-04-26",
+            "Representative": " Debbie Dingell",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-04-18"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2022-04-21",
+            "Representative": " Kim Dr Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-03-22"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2022-04-21",
+            "Representative": " Kim Dr Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-03-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-04-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-03-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-04-17",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-03-09"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2022-03-03",
+            "Representative": " Donald Sternoff Beyer Jr.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-02-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-02-18",
+            "Representative": " Pete Sessions",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-02-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-02-13",
+            "Representative": " Robert J. Wittman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-01-28"
+        },
+        {
+            "Amount": 1000001,
+            "House": "Representatives",
+            "Range": "$1,000,001-$5,000,000",
+            "ReportDate": "2022-03-04",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Exercise",
+            "TransactionDate": "2022-01-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-02-03",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-01-21"
+        },
+        {
+            "Amount": 1000001,
+            "House": "Representatives",
+            "Range": "$1,000,001-$5,000,000",
+            "ReportDate": "2022-02-28",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Exercise",
+            "TransactionDate": "2022-01-21"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-02-08",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-31"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2022-01-12",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-30"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2022-01-12",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-12-23",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-12-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-01-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-12-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-12-10",
+            "Representative": " Debbie Dingell",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-01"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-12-08",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-11-26"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-11-18"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2021-12-01",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-11-18"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2021-12-07",
+            "Representative": " Kim Dr Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-11-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-12-08",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-10-29"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-11-15",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-10-29"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2021-11-18",
+            "Representative": " Kim Dr Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-10-28"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2021-11-05",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-10-19"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-10-17",
+            "Representative": " Pete Sessions",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-09-10"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-13",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-08-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-08",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-08-13"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-08-09",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-28"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2021-11-12",
+            "Representative": " Kim Dr Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-07-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-08-06",
+            "Representative": " John Curtis",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-19"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2022-05-14",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-19"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2021-08-18",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-08-05",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-09"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-08-17",
+            "Representative": " Sara Jacobs",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-06"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-08-14",
+            "Representative": " James R. Langevin",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-07-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-02",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-06",
+            "Representative": " John Curtis",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-04",
+            "Representative": " Donald Sternoff  Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-18"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-04"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-04"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-06-03"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-06-11",
+            "Representative": " Marjorie Taylor Greene",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-05-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-05-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-05-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-05-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-04-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-04-20"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-04-20"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-04-19"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-04-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-05",
+            "Representative": "Ashley Hinson Arenholz",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-03-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-03-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-03-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-03-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-21",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-03-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-21",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-03-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-09",
+            "Representative": " James R. Langevin",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-03-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-03-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-03-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-09",
+            "Representative": " James R. Langevin",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-03-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-07-17",
+            "Representative": " Blake Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-02-23"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-02-22"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-22"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-03-16",
+            "Representative": "Mr. Peter Meijer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-15",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-15",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-02-05"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-04-15",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-02-04"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-04-21",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-29"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-04-15",
+            "Representative": " Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-29"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-13",
+            "Representative": "Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-22"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-02-19",
+            "Representative": "Mrs. Marjorie Taylor Greene",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-19",
+            "Representative": "Mrs. Marjorie Taylor Greene",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-20"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-06-17",
+            "Representative": " Patrick Fallon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-04",
+            "Representative": "Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-04",
+            "Representative": "Kathy Manning",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-15"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2021-02-17",
+            "Representative": " James R. Langevin",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-13",
+            "Representative": "Marie Newman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-02-17",
+            "Representative": " Christopher L. Jacobs",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-01-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-01-01",
+            "Representative": " Donald Sternoff  Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-12-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-12-21",
+            "Representative": " Michael Garcia",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-12-10"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-24"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-12-02",
+            "Representative": " Michael Garcia",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-11-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-09",
+            "Representative": " Joseph D. Morelle",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-20"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-12-15",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-11-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-01",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-11-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-28",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-10"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2020-12-10",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-28",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-01",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-11-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-11-17",
+            "Representative": " James R. Langevin",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-10-30"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-11-05",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-10-29"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-03",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-10-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-12-03",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-10-22"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-12-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-10-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-11-16",
+            "Representative": " Joe Courtney",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-10-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-12-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-10-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-11-09",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-10-09"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-10-09",
+            "Representative": " Dean Phillips",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-10-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-10-05",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-10-05",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-11-06",
+            "Representative": " Christopher L. Jacobs",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-11-15",
+            "Representative": " John A. Yarmuth",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-09-15",
+            "Representative": " Alan S. Lowenthal",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-03"
+        },
+        {
+            "Amount": 616.59,
+            "House": "Representatives",
+            "Range": "$616.59",
+            "ReportDate": "2020-09-15",
+            "Representative": " Alan S. Lowenthal",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-09-09",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-10-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-01"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-09-03",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-09-02",
+            "Representative": " Debbie Dingell",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-20"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-09-02",
+            "Representative": " Debbie Dingell",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-08-27",
+            "Representative": " Joe Courtney",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-07"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-09-29",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-07-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-08-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-11-09",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-22"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-08-09",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-09-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-07-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-08-07",
+            "Representative": " William R. Timmons Iv",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-06-29"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-04-02",
+            "Representative": " Sean Patrick Maloney",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-06-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-07-09",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-06-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-10-12",
+            "Representative": " John A. Yarmuth",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-06-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-10-12",
+            "Representative": " John A. Yarmuth",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-06-01"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-06-09",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-05-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-06-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-18"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2020-06-09",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-08"
+        },
+        {
+            "Amount": 1000001,
+            "House": "Representatives",
+            "Range": "$1,000,001-$5,000,000",
+            "ReportDate": "2020-06-09",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-08"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2020-06-09",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-31",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-07"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-31",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-05-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-15",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-15",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-09",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-09",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-06-10",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-20"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-05-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-15"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2020-05-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-22",
+            "Representative": " Mo Brooks",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-13"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-27",
+            "Representative": " Susan W. Brooks",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-29",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-29",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-07",
+            "Representative": " Dean Phillips",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-05-07",
+            "Representative": " Dean Phillips",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-02"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-04-09",
+            "Representative": " John Curtis",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-11",
+            "Representative": " Zoe Lofgren",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-11",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-23"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2020-04-15",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-11",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-10"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-15",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-09"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-11",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-08-13",
+            "Representative": " David Trone",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-04"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-03"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-03"
+        },
+        {
+            "Amount": 1000001,
+            "House": "Representatives",
+            "Range": "$1,000,001-$5,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-02"
+        },
+        {
+            "Amount": 1000001,
+            "House": "Representatives",
+            "Range": "$1,000,001-$5,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-02"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-02"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-28"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2020-03-08",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-03-16",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-02-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-05",
+            "Representative": " Mikie Sherrill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-02-22",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-02-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-06",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-03-16",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-02-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-29"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2020-01-29",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-29"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-02-22",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-02-22",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-14"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-02-10",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-14"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-02-08",
+            "Representative": " Michael John Gallagher",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-13"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-13",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-06",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-01-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-13",
+            "Representative": " Alan S. Lowenthal",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-02"
+        },
+        {
+            "Amount": 894.97,
+            "House": "Representatives",
+            "Range": "$894.97",
+            "ReportDate": "2020-01-13",
+            "Representative": " Alan S. Lowenthal",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-07-29",
+            "Representative": " Joe Courtney",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-02",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-20",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-31",
+            "Representative": " John B. Larson",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-18"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-14",
+            "Representative": " Michael John Gallagher",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-14",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-09"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-09",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-09",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-09",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-09",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-12-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-14",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-11-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-14",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-11-18"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-11-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-11-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-14",
+            "Representative": " Donald Sternoff Beyer Jr",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-11-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-11-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-12-23",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-11-05"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-11-13",
+            "Representative": " Earl Blumenauer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-29"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2019-10-21",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-21"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-11-08",
+            "Representative": " Cheri Bustos",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-17"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-14"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2019-10-02",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-09-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-09-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-27",
+            "Representative": " Donna Shalala",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-08-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2020-01-24",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-07-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-09-16",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-07-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-07-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-07-09",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-07-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-07-18",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-06-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-07-18",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-06-06"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-07-09",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-06-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-06-15",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-05-20"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-05-13"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-13",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-05-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-14",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-08",
+            "Representative": " Earl Blumenauer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-06",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-04-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-07",
+            "Representative": " Robert J. Wittman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-04-11",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-05-20",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-05"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-04-15",
+            "Representative": " Nicholas Van Taylor",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-25"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-04-15",
+            "Representative": " Nicholas Van Taylor",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-04-04",
+            "Representative": " Bill Flores",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-22"
+        },
+        {
+            "Amount": 50001,
+            "House": "Representatives",
+            "Range": "$50,001-$100,000",
+            "ReportDate": "2019-04-30",
+            "Representative": " Kim Schrier",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-04-11",
+            "Representative": " Lloyd K. Smucker",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-04-01",
+            "Representative": " David B. Mckinley",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-04-23",
+            "Representative": " Elizabeth Fletcher",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-08"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2019-03-08",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-02-11"
+        },
+        {
+            "Amount": 250001,
+            "House": "Representatives",
+            "Range": "$250,001-$1,000,000",
+            "ReportDate": "2019-03-08",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-02-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2020-04-27",
+            "Representative": " Donna Shalala",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-02-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-03-21",
+            "Representative": " Dean Phillips",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-02-04"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-29"
+        },
+        {
+            "Amount": 100001,
+            "House": "Representatives",
+            "Range": "$100,001-250,000",
+            "ReportDate": "2019-02-13",
+            "Representative": " Gilbert Cisneros",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-31",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-01-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-02-22",
+            "Representative": " Ed Perlmutter",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-01-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-13",
+            "Representative": " Bob Gibbs",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-03-04",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-01-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-02-18",
+            "Representative": " Dean Phillips",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-01-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-14",
+            "Representative": " David E. Price",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-31",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-01-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-29",
+            "Representative": " Justin Amash",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-02"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2019-01-11",
+            "Representative": " Robert J. Wittman",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-31"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-03-03",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2019-01-16",
+            "Representative": " Earl Blumenauer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-12-17",
+            "Representative": " Frank A. Lobiondo",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-10"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-12-17",
+            "Representative": " Frank A. Lobiondo",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-10"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2022-03-03",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-06",
+            "Representative": " Earl Blumenauer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-02"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-11-02"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2021-09-23",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-12",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-07",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-07",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-07",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-19",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-11-19",
+            "Representative": " Katherine M. Clark",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-10-01"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2018-10-25",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Exercise",
+            "TransactionDate": "2018-09-20"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2018-10-25",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Exercise",
+            "TransactionDate": "2018-09-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-09-14"
+        },
+        {
+            "Amount": 500001,
+            "House": "Representatives",
+            "Range": "$500,001",
+            "ReportDate": "2018-10-25",
+            "Representative": " Nancy Pelosi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-09-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-19",
+            "Representative": " Robert J. Wittman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-09-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-09-10"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-05",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-08-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-26",
+            "Representative": " Dwight Evans",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-05",
+            "Representative": " Roger W. Marshall",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-07"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-29",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-06",
+            "Representative": " Barbara J  Comstock",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-02",
+            "Representative": " Justin Amash",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-13",
+            "Representative": " Carlos Curbelo",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-07-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-13",
+            "Representative": " Thomas J. Rooney",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-07-18"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-07-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-29",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-07-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-07-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2022-12-19",
+            "Representative": " Thomas Suozzi",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-05-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-04-30"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-02-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-02-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-02-07"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2018-10-02",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-02-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-29",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-11-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-08-02"
+        },
+        {
+            "Amount": 15001,
+            "House": "Representatives",
+            "Range": "$15,001-$50,000",
+            "ReportDate": "2018-07-09",
+            "Representative": " K. Michael Conaway",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-06-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-08-13",
+            "Representative": " Josh Gottheimer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-05-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Representatives",
+            "Range": "$1,001-$15,000",
+            "ReportDate": "2018-09-29",
+            "Representative": " Gary Palmer",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-04-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2023-02-14",
+            "Representative": "Tommy Tuberville",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2023-01-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-12-21",
+            "Representative": "Dan Sullivan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-11-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-12-21",
+            "Representative": "Dan Sullivan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-11-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-12-21",
+            "Representative": "Dan Sullivan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-11-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-11-13",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-10-17"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2022-03-23",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-02-24"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2022-03-23",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2022-02-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-03-11",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-02-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-02-03",
+            "Representative": "Thomas R. Carper",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-01-18"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2022-02-14",
+            "Representative": "Tommy Tuberville",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2022-01-14"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2022-01-12",
+            "Representative": "Tommy Tuberville",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-01-21",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2022-01-21",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-12-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-12-10",
+            "Representative": "Tommy Tuberville",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-11-22"
+        },
+        {
+            "Amount": 250001,
+            "House": "Senate",
+            "Range": "$250,001 - $500,000",
+            "ReportDate": "2021-12-10",
+            "Representative": "John Hickenlooper",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-10-29"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2021-10-04",
+            "Representative": "Thomas R. Carper",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-09-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-09-15",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-08-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-09-15",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-08-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-07-16",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-06-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-07-16",
+            "Representative": "Tommy Tuberville",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2021-06-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-02-18",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2021-01-20"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-12-31",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-12-22"
+        },
+        {
+            "Amount": 100001,
+            "House": "Senate",
+            "Range": "$100,001 - $250,000",
+            "ReportDate": "2020-12-31",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-12-16"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-12-02",
+            "Representative": "Thomas R. Carper",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-11-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-17"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-10-13",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-09-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-11"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-03"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-03"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-02"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-09-24",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-09-02"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-27"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-09-24",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-08-27"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-11",
+            "Representative": "Pat Toomey",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-08-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-08",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-08",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-18",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-09-18",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-08-19"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-29",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-08-07"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-29",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-08-07"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-08-03"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-08-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-31"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-07-24",
+            "Representative": "James M. Inhofe",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-08-04",
+            "Representative": "Thomas R. Carper",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-07-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-07-02",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-06-26"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-07-02",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-06-24"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-07-02",
+            "Representative": "Ron Wyden",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-06-23"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-07-08",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-05-29"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-05-02",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-27"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-05-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2021-05-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-05-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2021-05-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2021-05-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2021-05-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2020-05-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-05-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-14"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-05-02",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-05-02",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-04-08"
+        },
+        {
+            "Amount": 250001,
+            "House": "Senate",
+            "Range": "$250,001 - $500,000",
+            "ReportDate": "2020-05-01",
+            "Representative": "Kelly Loeffler",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-04-07"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-03-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-24"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-03-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-03-27",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-03-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2020-03-06"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-03-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-03-02"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2021-05-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-03-03",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-02-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-02-03",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2020-02-14",
+            "Representative": "James M. Inhofe",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2020-02-03",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2020-01-10"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001-$15,000",
+            "ReportDate": null,
+            "Representative": "John Boozman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-12-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-11-05",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-11-05",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-11-03",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-10-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-11-03",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-10-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-10-21",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-09-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-10-21",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-09-25"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-09-30",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-09-19"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-05-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-05-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-04-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-04-17",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-03-11"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-03-18",
+            "Representative": "John F. Reed",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-02-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-03-18",
+            "Representative": "John F. Reed",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-02-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-03-01",
+            "Representative": "John F. Reed",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2019-02-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-02-21",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-25"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2019-01-11",
+            "Representative": "John Hoeven",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-02-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2019-01-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001-$15,000",
+            "ReportDate": null,
+            "Representative": "John Boozman",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-12-21"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-05-15",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-05-15",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-19"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-08-07",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-07"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-05-15",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-06"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-05-15",
+            "Representative": "Jerry Moran",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-12-06"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2019-01-10",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-12-04"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-12-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-12-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-12-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-12-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-12-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-11-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-06-24",
+            "Representative": "Chris Coons",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-11-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-11-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-11-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-11-08",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-11-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2019-06-24",
+            "Representative": "Chris Coons",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-10-24"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-10-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-09-05"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-28"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-09-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-08-24"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2018-08-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-07-30"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2018-05-14",
+            "Representative": "James M. Inhofe",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-05-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-10",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-04-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-03-12",
+            "Representative": "John F. Reed",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-03-09"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2018-03-03",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-02-05"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-03-03",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2018-02-05"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-02-13",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-01-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-02-13",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2018-01-31"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-01-16",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-12-29"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-12-01",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-11-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-06-28",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-11-08"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-12-01",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-09-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-09-12",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-08-24"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-28",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-08-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-09-01",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-08-08"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-07-10",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-06-20"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-06-22",
+            "Representative": "Patty Murray",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-06-15"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-07-10",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-06-12"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2017-07-10",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-06-12"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-07-10",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-06-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-06-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-05-09"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-06-06",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-05-09"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-03-21",
+            "Representative": "Patty Murray",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2017-03-16"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-02-24",
+            "Representative": "John Cornyn",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-02-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-02-14",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-01-11"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-02-14",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2017-01-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-12-30",
+            "Representative": "Pat Roberts",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-12-15"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-08-22",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2016-07-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-04-29",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-04-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-04-29",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-04-26"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-08-10",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2016-04-26"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2016-05-23",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2016-04-26"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2017-08-10",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2016-04-26"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2016-05-23",
+            "Representative": "Sheldon Whitehouse",
+            "Ticker": "AAPL",
+            "Transaction": "Sale",
+            "TransactionDate": "2016-04-26"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-04-04",
+            "Representative": "Shelley Moore Capito",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-03-22"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-25"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-23"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-16"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-12"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-11"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-03"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2017-08-07",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-01"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-03-01",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-02-01"
+        },
+        {
+            "Amount": 50001,
+            "House": "Senate",
+            "Range": "$50,001 - $100,000",
+            "ReportDate": "2016-02-08",
+            "Representative": "John Hoeven",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-02-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-28"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-02-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2016-02-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 15001,
+            "House": "Senate",
+            "Range": "$15,001 - $50,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2018-05-04",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-02-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-02-02",
+            "Representative": "David Perdue",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-27"
+        },
+        {
+            "Amount": 1001,
+            "House": "Senate",
+            "Range": "$1,001 - $15,000",
+            "ReportDate": "2016-01-12",
+            "Representative": "Bill Cassidy",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase",
+            "TransactionDate": "2016-01-05"
+        }
+    ],
+    "status": 200
+}

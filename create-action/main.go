@@ -2,8 +2,8 @@ package main
 
 import (
 	"bytes"
-	"fmt"
 	"io/ioutil"
+	"log"
 	"mime/multipart"
 	"net/http"
 
@@ -24,7 +24,7 @@ func createPDF(c *gin.Context) {
 	// Add a form field with name "url" and value "http://urlGenerator:8080"
 	fw, err := w.CreateFormField("url")
 	if err != nil {
-		fmt.Println(err)
+		log.Println(err)
 		return
 	}
 	fw.Write([]byte("http://urlgenerator:8080"))

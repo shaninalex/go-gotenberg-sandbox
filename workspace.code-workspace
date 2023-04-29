@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "staticfiles"
+		},
+		{
+			"path": "datasource"
 		}
 	]
 }

@@ -1,0 +1,1445 @@
+{
+    "data": [
+        {
+            "Amount": 1001,
+            "Date": "2022-11-22",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Sullivan, Dan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2022-11-22",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Sullivan, Dan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2022-11-22",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Sullivan, Dan",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2022-10-17",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2022-02-24",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2022-02-24",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2022-02-24",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2022-01-18",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Carper, Thomas R.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2022-01-14",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Tuberville, Tommy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2021-12-22",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Tuberville, Tommy",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-12-21",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-12-21",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 250001,
+            "Date": "2021-10-29",
+            "Range": "$250,001 - $500,000",
+            "Senator": "Hickenlooper, John",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2021-09-28",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Carper, Thomas R.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-08-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-08-17",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-06-23",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-20",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-20",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2021-01-20",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-12-22",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 100001,
+            "Date": "2020-12-16",
+            "Range": "$100,001 - $250,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-11-20",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Carper, Thomas R.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-09-17",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-09-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-09-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-09-09",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-09-09",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-09-03",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-09-03",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-09-02",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-09-02",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-27",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-27",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-08-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Toomey, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-27",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-08-21",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-08-21",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-08-19",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-08-19",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-07",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-07",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-08-03",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-07-31",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-07-15",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Inhofe, James M.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-07-09",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Carper, Thomas R.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-06-26",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-06-24",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-06-23",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Wyden, Ron",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-05-29",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-27",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-16",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-16",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-14",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-14",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-04-14",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-14",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-04-14",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2020-04-14",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-04-08",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-04-08",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 250001,
+            "Date": "2020-04-07",
+            "Range": "$250,001 - $500,000",
+            "Senator": "Loeffler, Kelly",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-03-24",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-03-20",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-03-09",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-03-06",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-03-02",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-02-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-02-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-01-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2020-01-27",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Inhofe, James M.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2020-01-10",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-10-28",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-10-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-10-15",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-10-03",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-09-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-09-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-09-19",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-04-08",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-04-08",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-03-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-02-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Reed, John F.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2019-02-28",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Reed, John F.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-02-04",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Reed, John F.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-01-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2019-01-04",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Hoeven, John",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2019-01-03",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-12-19",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-12-19",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-12-07",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-12-06",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-12-06",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Moran, Jerry",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2018-12-04",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-05",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Coons, Chris",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-01",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-11-01",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-10-24",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Coons, Chris",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2018-09-05",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2018-08-28",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2018-08-24",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2018-07-30",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2018-05-01",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Inhofe, James M.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-04-03",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-03-09",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Reed, John F.",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2018-02-05",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2018-02-05",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-01-31",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2018-01-31",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-12-29",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-11-08",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-11-08",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-09-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-08-24",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-08-15",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-08-08",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-06-20",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-06-15",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Murray, Patty",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2017-06-12",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-06-12",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-06-09",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-05-09",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-05-09",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-03-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Murray, Patty",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-02-01",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Cornyn, John",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2017-01-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2017-01-11",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-12-15",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Roberts, Pat",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-07-26",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-04-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-04-26",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-04-26",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-04-26",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-04-26",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-04-26",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Whitehouse, Sheldon",
+            "Ticker": "AAPL",
+            "Transaction": "Sale"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-03-22",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Capito, Shelley Moore",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-25",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-23",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-23",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-23",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-16",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-12",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-12",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-12",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-11",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-03",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-03",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-03",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-01",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-01",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-02-01",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-28",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 50001,
+            "Date": "2016-01-28",
+            "Range": "$50,001 - $100,000",
+            "Senator": "Hoeven, John",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-01-27",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-27",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 15001,
+            "Date": "2016-01-27",
+            "Range": "$15,001 - $50,000",
+            "Senator": "Perdue, David",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        },
+        {
+            "Amount": 1001,
+            "Date": "2016-01-05",
+            "Range": "$1,001 - $15,000",
+            "Senator": "Cassidy, Bill",
+            "Ticker": "AAPL",
+            "Transaction": "Purchase"
+        }
+    ],
+    "status": 200
+}

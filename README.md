@@ -1,6 +1,6 @@
 # Go gotenberg sandbox
 
-(Example pdf file)[]
+(Example pdf file)[./example.pdf]
 
 ## API
 
@@ -8,5 +8,6 @@
 
 
 ## TODO
+- [ ] - empty charts bug.
 - [ ] - datasource wich can generate some data for charts
 - [ ] - image generator wich will save image in folder wich will served by `nginx` service.

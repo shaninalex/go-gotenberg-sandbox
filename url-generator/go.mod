@@ -1,4 +1,4 @@
-module github.com/shaninalex/go-gotenberg-sandbox/urlGenerator
+module github.com/shaninalex/go-gotenberg-sandbox/url-generator
 
 go 1.20
 
