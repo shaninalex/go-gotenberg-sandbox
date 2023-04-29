@@ -1,5 +1,6 @@
 # Go gotenberg sandbox
 
+(Example pdf file)[]
 
 ## API
 
