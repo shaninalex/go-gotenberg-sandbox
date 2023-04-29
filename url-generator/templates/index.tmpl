@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body {
+            font-family: sans-serif;
+        }
+
+        img {
+            display: block;
+            max-width: 100%;
+        }
+        .small-image {
+            width: 200px
+        }
+    </style>
+</head>
+<body>
+    <div class="container p-0">
+        <h1>Test pdf</h1>
+        <div class="row m-0">
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-header">Card Header</div>
+                    <div class="card-body">
+                        <img src="{{.image}}" style="width: 300px" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

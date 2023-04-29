@@ -1,0 +1,52 @@
+version: "3"
+
+
+networks:
+  my-network:
+
+services:
+
+  # PUBLIC
+
+  createaction:
+    build: ./create-action
+    ports:
+      - "8090:8090"
+    restart: always
+    depends_on:
+      - gotenberg
+      - urlgenerator
+    networks:
+      - my-network
+
+  nginx:
+    image: nginx
+    volumes:
+      - ./staticfiles:/usr/share/nginx/html:ro
+    ports:
+      - "80:80"
+    networks:
+      - my-network
+  # INTERNAL SERVICES
+
+  # available on 8080
+  urlgenerator:
+    build: ./url-generator
+    restart: always
+    depends_on:
+      - gotenberg
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./url-generator/templates:/templates/
+      - ./url-generator/static:/static/
+    networks:
+      - my-network
+
+  # available on :3000
+  gotenberg:
+    image: gotenberg/gotenberg:7
+    ports:
+      - "3000:3000"
+    networks:
+      - my-network
