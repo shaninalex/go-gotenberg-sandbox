@@ -1,6 +1,6 @@
 # Go gotenberg sandbox
 
-(Example pdf file)[]
+[Example pdf file](./example.pdf)
 
 ## API
 
