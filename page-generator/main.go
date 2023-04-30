@@ -10,26 +10,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-type DataGathering struct {
-	CompanyOverview *CompanyOverviewPayload
-	Wallstreetbets  *WallstreetbetsPayload
-}
-
-type WallstreetbetsResponse struct {
-	Data   any `json:"data"`
-	Status any `json:"status"`
-}
-
-type WallstreetbetsPayload struct {
-	Date      string
-	Sentiment float32
-}
-
-type CompanyOverviewPayload struct {
-	Name   string
-	Symbol string
-}
-
 type PdfPayload struct {
 	PdfLogo            string
 	CompanyName        string
@@ -91,12 +71,7 @@ func getData(c *gin.Context) {
 					log.Println(err)
 					return
 				}
-				var a WallstreetbetsPayload
-				if err := json.Unmarshal(wallstreetbets.Data, &a); err != nil {
-					log.Println(err)
-					return
-				}
-				dataGathering.Wallstreetbets = &a
+				dataGathering.Wallstreetbets = wallstreetbets.Data
 			}
 
 			// if link.Name == "Balancesheet" {
